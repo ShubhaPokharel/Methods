@@ -1,6 +1,6 @@
 # Methods
 
-Dont write all your coding inside the main method. You can define your own method!
+Dont write all your coding inside the main method. You can define your own method which is called user defined method.
 
 - Method is used to write the logics of the application.
 
