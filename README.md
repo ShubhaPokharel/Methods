@@ -8,7 +8,7 @@ Dont write all your coding inside the main method. You can define your own metho
 
 ### Static Method
 
-If we use the the static modifier in the method, it is called static method. We can acess the static method by using the class name.
+If we use the the static modifier in the method, it is called static method. We can acess the static method by using the class name. 
 
 
 
